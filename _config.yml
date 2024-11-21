@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hailong Shi (石海龙)"
-description              : "The Personal Academic Website of Hailong Shi."
+description              : ""
 repository               : "shihailong/shihailong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hailong Shi (石海龙)"
-  avatar           : "images/profile.png"
-  bio              : "Associate Professor, Doctoral Supervisor, Institute of Microelectronics, Chinese Academy of Sciences."
+  avatar           : "images/profile.jpg"
+  bio              : "Associate Professor, IMECAS <br> Doctoral Supervisor"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
