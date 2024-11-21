@@ -23,7 +23,7 @@ Hailong Shi, Ph.D., associate professor at the Institute of Microelectronics, Ch
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 I join Institute of Microelectronics, Chinese Academy of Sciences as an Associate Professor.
 
-# Research Interests
+# 🧑‍🎨 Research Interests
 - **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
 - **Multimodal Content Understanding**: Cross-modal data fusion, multimodal learning algorithms, content semantic understanding, and knowledge representation.
 - **Generative AI**: Including image-to-text, text-to-image/video, image/video editing, large model evaluation.
