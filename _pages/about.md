@@ -40,7 +40,7 @@ Hailong Shi, Ph.D., associate professor at the Institute of Microelectronics, Ch
 </div>
 -->
 
-- **<font color = "#224B8D">\[IJCAI 2024\]</font>** Huan Li, **Hailong Shi***, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. CCF-A
+- <b><font color = "#224B8D">\[IJCAI 2024\]</font></b> Huan Li, <b>Hailong Shi*</b>, Xingyu Gao. A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring, The 33rd International Joint Conference on Artificial Intelligence, Jeju, South Korea, 3th-9th August, 2024. CCF-A
 - **<font color = "#224B8D">\[ECCV 2024]\]</font>** Qi Guo, **Hailong Shi***, Huan Li, Jinsheng Xiao, Xingyu Gao. REDIR: Refocus-free Event-based De-occlusion Image Reconstruction, The 18th European Conference on Computer Vision, MiCo Milano, Italy, Sep 29th-Oct 4th, 2024. CCF-B，计算机视觉三大顶会之一
 - **<font color = "#224B8D">\[IEEE TCSVT\]</font>** Xingyu Gao, Zuolei Li, **Hailong Shi***, Zhenyu Chen, Peilin Zhao. Scribble-Supervised Video Object Segmentation via Scribble Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, 2024. SCI一区，影响因子8.3
 - **<font color = "#224B8D">\[IEEE TNNLS\]</font>** Hang Ran, Xingyu Gao, Lusi Li, Weijun Li, Songsong Tian, Gang Wang, **Hailong Shi**, Xin Ning. Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning, IEEE Transactions on Neural Networks and Learning Systems, 2024. SCI一区，影响因子10.2
