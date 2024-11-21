@@ -21,8 +21,14 @@ Hailong Shi, Ph.D., associate professor at the Institute of Microelectronics, Ch
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2023.07*: &nbsp;🎉🎉 I join Institute of Microelectronics, Chinese Academy of Sciences as an Associate Professor.
+
+# Research Interests
+- **Computer Vision**: Image recognition, detection, tracking, and enhancement in complex environments (such as low-light conditions, rainy and snowy weather, occlusions, etc.).
+- **Multimodal Content Understanding**: Cross-modal data fusion, multimodal learning algorithms, content semantic understanding, and knowledge representation.
+- **Generative AI**: Including image-to-text, text-to-image/video, image/video editing, large model evaluation.
+- **Data Mining and Retrieval**: Large-scale information retrieval systems, including search, recommendation, advertising, etc.
+- **Brain-inspired Computing**: Research on key technologies for the next generation of brain-inspired computing, such as spiking neural networks.
 
 
 # 📝 Publications 
@@ -49,17 +55,12 @@ Hailong Shi, Ph.D., associate professor at the Institute of Microelectronics, Ch
 - **<font color = "#224B8D">[ECIR 2024]</font>** Luo Ji#, Jiayu Mao#, **Hailong Shi***, Qian Li, Hongxia Yang. An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation, The 46th European Conference on Information Retrieval, Glasgow, Scotland, 24th-28th March, 2024. CCF-C
 - **<font color = "#224B8D">[ICDM 2023]</font>** Wanjin Feng, **Hailong Shi**, Peilin Zhao, Xingyu Gao. Mixtron: Bandit Online Multiclass Prediction with Implicit Feedback, International Conference on Data Mining, Shanghai, China, 1th-4th December, 2023. CCF-B
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Professional Experience
+- *2023.07 - Present*, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduced by CAS), Associate Professor, PhD Supervisor
+- *2019.11 - 2023.06*, Alibaba Group, Head of Intelligent Retail Algorithm Team
+- *2018.03 - 2019.11*, JD.com, Head of IoT Business Unit Algorithm Team
+- *2015.01 - 2018.02*, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor
 
-# 📖 Educations
+# 🎓 Educations
 - *2010.09 - 2015.01*, Institute of Computing Technology, Chinese Academy of Sciences, Ph.D
 - *2004.09 - 2010.06*, Wuhan University, School of Electronic Information, Bachelor’s and Master’s Degree
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
