@@ -23,10 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hailong Shi (石海龙)"
   avatar           : "images/profile.jpg"
-  bio              : "<b>Associate Professor Doctoral Supervisor</b> <br><br>
+  bio              : "<b>Associate Professor of IMECAS</b><br>
+                      <b>Doctoral Supervisor</b> <br><br>
                       Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China. <br><br>
-                      Email: shihailong@ime.ac.cn <br>
-                      Wechat: shihailong2010"
+                      <b>Email:</b> shihailong@ime.ac.cn <br>
+                      <b>Wechat:</b> shihailong2010"
   location         : # "Beijing, China"
   employer         :
   pubmed           : 
