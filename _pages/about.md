@@ -58,7 +58,7 @@ Hailong Shi, Ph.D., associate professor at the Institute of Microelectronics, Ch
 
 # 💻 Professional Experience
 - *2023.07 - Present*, Institute of Microelectronics, Chinese Academy of Sciences (high-level talent introduced by CAS), Associate Professor, PhD Supervisor
-- *2019.11 - 2023.06*, Alibaba Group, Head of Intelligent Retail Algorithm Team
+- *2019.11 - 2023.05*, Alibaba Group, Head of Intelligent Retail Algorithm Team
 - *2018.03 - 2019.11*, JD.com, Head of IoT Business Unit Algorithm Team
 - *2015.01 - 2018.02*, Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor
 
